@@ -74,8 +74,10 @@ Atualmente desenvolvendo **Izanagi AI**, um framework de engenharia de software 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohenriquesanchesleal4-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquesanchesleal4-debug&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-six-eta.vercel.app/api?username=pedrohenriquesanchesleal4-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-eta.vercel.app/api/top-langs/?username=pedrohenriquesanchesleal4-debug&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pedrohenriquesanchesleal4-debug&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
@@ -86,7 +88,6 @@ Atualmente desenvolvendo **Izanagi AI**, um framework de engenharia de software 
 [![Email](https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquesanchesleal4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sanches-leal-a7a721278)
 [![Portfólio](https://img.shields.io/badge/Portfólio-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://pedrohsl-portfolio.vercel.app)
-[![Portfólio v2](https://img.shields.io/badge/Portfólio%20v2-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliov2.vercel.app)
 
 </div>
 
