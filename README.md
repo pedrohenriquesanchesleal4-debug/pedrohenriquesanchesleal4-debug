@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Pedro Henrique Sanches Leal" width="780">
+  <img src="https://raw.githubusercontent.com/pedrohenriquesanchesleal4-debug/pedrohenriquesanchesleal4-debug/main/assets/hero.svg" alt="Pedro Henrique Sanches Leal" width="780">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:pedrohenriquesanchesleal4@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<img src="assets/terminal.svg" alt="Terminal" width="780">
+<img src="https://raw.githubusercontent.com/pedrohenriquesanchesleal4-debug/pedrohenriquesanchesleal4-debug/main/assets/terminal.svg" alt="Terminal" width="780">
 
 ## <span>//</span> o que eu faço
 
