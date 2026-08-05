@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=600&color=58A6FF&center=true&vCenter=true&width=580&lines=Pedro+Henrique+Sanches+Leal;Desenvolvedor+Full-Stack;ADS+%7C+An%C3%A1lise+e+Desenv.+de+Sistemas" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/pedrohenriquesanchesleal4-debug/pedrohenriquesanchesleal4-debug/main/assets/hero.svg" alt="Pedro Henrique Sanches Leal" width="780">
 </p>
 
@@ -13,13 +17,13 @@
 
 ## <span>//</span> o que eu faço
 
-| ⬢ **Engenharia de Software** | ⚡ **Sistemas Inteligentes** |
+| ⬢ **Desenvolvimento Full-Stack** | ⚡ **Automação & Lógica** |
 |:---|:---|
-| Clean Architecture, DDD, CQRS e design patterns aplicados com disciplina. Código limpo, testável e que escala — não apenas "funciona". | LLMs, RAG, LangGraph, MCP e multi-agent systems. Construo agentes que planejam, executam e se auto-corrigem. |
+| Estudante de **ADS (Análise e Desenvolvimento de Sistemas)**. Construção de aplicações web robustas, APIs REST e sistemas eficientes em TypeScript, C# e PHP. | Automação de processos com Python, scripts eficientes, lógica de programação estruturada e resolução de problemas. |
 
-| 🎬 **Interfaces Cinematográficas** | 🏛️ **Engenharia de Dados** |
+| 🎬 **Interfaces Cinematográficas** | 🏛️ **Bancos de Dados & APIs** |
 |:---|:---|
-| Estética Apple-like: dark mode, glassmorphism, scrollytelling, WebGL e micro-interações que transformam produto em experiência. | Modelagem relacional, PostgreSQL, Redis, SQL otimizado e pipelines ETL com automação em Python. |
+| Estética moderna: dark mode, glassmorphism, scrollytelling, WebGL e micro-interações que transformam interfaces em experiências. | Modelagem relacional, PostgreSQL, MySQL, Redis, CRUDs estruturados e integração de sistemas. |
 
 ## <span>//</span> stack
 
@@ -52,12 +56,12 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/pedrohenriquesanchesleal4-debug/izanagi-ai)
 [![npm](https://img.shields.io/badge/npm-izanagi--ai-09090b?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/izanagi-ai)
 
-### 🌐 [Site Izanagi](https://github.com/pedrohenriquesanchesleal4-debug/SiteIzanagi)
-> Site oficial do framework — estética Apple-like com glassmorphism, scrollytelling, animações de scroll e micro-interações. Uma experiência, não uma página.
+### 🌐 [Site Izanagi](https://izanagi-dun.vercel.app/)
+> Site oficial do framework — estética Apple-like com glassmorphism, scrollytelling, animações de scroll e micro-interações. Uma experiência, não uma página. ([Repositório GitHub](https://github.com/pedrohenriquesanchesleal4-debug/SiteIzanagi))
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/pedrohenriquesanchesleal4-debug/SiteIzanagi)
-[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/pedrohenriquesanchesleal4-debug/SiteIzanagi)
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)](https://github.com/pedrohenriquesanchesleal4-debug/SiteIzanagi)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://izanagi-dun.vercel.app/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://izanagi-dun.vercel.app/)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)](https://izanagi-dun.vercel.app/)
 
 ### 📚 [Sistema de Cadastro de Livros](https://github.com/pedrohenriquesanchesleal4-debug/Sistema-de-Cadastro-de-Livros)
 > CRUD completo em C#/.NET 8: cadastro, exclusão e listagem de livros com boas práticas de organização e validação.

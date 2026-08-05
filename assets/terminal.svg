@@ -37,9 +37,8 @@
   <text x="76" y="136" class="term dim">@pedrohsl</text>
   <text x="145" y="136" class="term dim">~</text>
   <text x="160" y="136" class="term cmd">$ echo $CURRENT_FOCUS</text>
-  <text x="30" y="158" class="term ok">Izanagi AI</text>
-  <text x="112" y="158" class="term dim">— framework de engenharia de software autônoma orientada a agentes</text>
-  <text x="30" y="178" class="term dim">12 agentes · 79+ skills · CLI npm · engines de decisão, memória e auto-recuperação</text>
+  <text x="30" y="158" class="term ok">ADS (Análise e Desenvolvimento de Sistemas)</text>
+  <text x="30" y="178" class="term dim">Desenvolvimento Full-Stack · APIs REST · C# · TypeScript · Arquitetura limpa</text>
 
   <text x="30" y="206" class="term prompt">➜</text>
   <text x="48" y="206" class="term path">dev</text>
