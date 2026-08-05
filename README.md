@@ -84,6 +84,9 @@ Atualmente desenvolvendo **Izanagi AI**, um framework de engenharia de software 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquesanchesleal4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sanches-leal-a7a721278)
+[![Portfólio](https://img.shields.io/badge/Portfólio-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://pedrohsl-portfolio.vercel.app)
+[![Portfólio v2](https://img.shields.io/badge/Portfólio%20v2-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliov2.vercel.app)
 
 </div>
 
