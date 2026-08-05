@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=600&color=58A6FF&center=true&vCenter=true&width=580&lines=Pedro+Henrique+Sanches+Leal;Desenvolvedor+Full-Stack;ADS+%7C+An%C3%A1lise+e+Desenv.+de+Sistemas" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohenriquesanchesleal4-debug/pedrohenriquesanchesleal4-debug/main/assets/hero.svg" alt="Pedro Henrique Sanches Leal" width="780">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=600&color=58A6FF&center=true&vCenter=true&width=620&lines=Pedro+Henrique+Sanches+Leal;Full+Stack+%26+AI+Developer;ADS+%7C+An%C3%A1lise+e+Desenv.+de+Sistemas;React%2C+TypeScript%2C+PHP+%26+Laravel" alt="Typing SVG" />
 </p>
 
 <p align="center">
