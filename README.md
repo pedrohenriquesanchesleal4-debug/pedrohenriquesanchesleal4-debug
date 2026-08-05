@@ -21,9 +21,9 @@
 |:---|:---|
 | Estudante de **ADS (Análise e Desenvolvimento de Sistemas)**. Construção de aplicações web robustas, APIs REST e sistemas eficientes em TypeScript, C# e PHP. | Automação de processos com Python, scripts eficientes, lógica de programação estruturada e resolução de problemas. |
 
-| 🎬 **Interfaces Cinematográficas** | 🏛️ **Bancos de Dados & APIs** |
+| 🎬 **Interfaces Cinematográficas** | 🤖 **IA Aplicada & Produtividade** |
 |:---|:---|
-| Estética moderna: dark mode, glassmorphism, scrollytelling, WebGL e micro-interações que transformam interfaces em experiências. | Modelagem relacional, PostgreSQL, MySQL, Redis, CRUDs estruturados e integração de sistemas. |
+| Estética moderna: dark mode, glassmorphism, scrollytelling, WebGL e micro-interações que transformam interfaces em experiências. | Uso prático de ferramentas de IA (assistentes de código, IA generativa e engenharia de prompt) para acelerar o desenvolvimento. |
 
 ## <span>//</span> stack
 
