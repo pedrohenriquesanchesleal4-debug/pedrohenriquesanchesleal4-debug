@@ -5,7 +5,7 @@
 <p alignan="center">
   <a href="https://github.com/pedrohenriquesanchesleal4-debug/izanagi-ai"><img src="https://img.shields.io/badge/Izanagi%20AI-09090b?style=flat-square&logo=typescript&logoColor=3178C6" alt="Izanagi AI"></a>
   <a href="https://izanagi-ai.vercel.app"><img src="https://img.shields.io/badge/Site%20Izanagi-09090b?style=flat-square&logo=vercel&logoColor=white" alt="Site Izanagi"></a>
-  <a href="https://pedrohsl-dev.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-09090b?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://pedrohsl-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-09090b?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-sanches-leal-a7a721278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pedrohenriquesanchesleal4@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -130,11 +130,11 @@
 [![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/pedrohenriquesanchesleal4-debug/Sistema-de-Cadastro-de-Livros)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-A91D22?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://github.com/pedrohenriquesanchesleal4-debug/Sistema-de-Cadastro-de-Livros)
 
-### 🚀 [Portfólio v3](https://pedrohsl-dev.vercel.app)
+### 🚀 [Portfólio v2](https://pedrohsl-portfolio.vercel.app)
 > Meu portfólio profissional: case studies com problema → construção → decisão → resultado, stack completa e experiência real. Tema dark cinematográfico com foco em produto.
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://pedrohsl-dev.vercel.app)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://pedrohsl-dev.vercel.app)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://pedrohsl-portfolio.vercel.app)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://pedrohsl-portfolio.vercel.app)
 
 <details>
   <summary><b>📦 Outros repositórios</b></summary>
@@ -188,7 +188,7 @@
 <p align="center">
   <a href="mailto:pedrohenriquesanchesleal4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-sanches-leal-a7a721278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pedrohsl-dev.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-09090b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://pedrohsl-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-09090b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="https://izanagi-ai.vercel.app"><img src="https://img.shields.io/badge/Izanagi-09090b?style=for-the-badge&logo=vercel&logoColor=white" alt="Izanagi"></a>
   <a href="https://github.com/pedrohenriquesanchesleal4-debug"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
