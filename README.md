@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Pedro+Henrique+Sanches+Leal;Full+Stack+%26+AI+Developer;Criador+do+Izanagi+AI;ADS+%7C+An%C3%A1lise+e+Desenv.+de+Sistemas" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p alignan="center">
   <a href="https://github.com/pedrohenriquesanchesleal4-debug/izanagi-ai"><img src="https://img.shields.io/badge/Izanagi%20AI-09090b?style=flat-square&logo=typescript&logoColor=3178C6" alt="Izanagi AI"></a>
   <a href="https://izanagi-ai.vercel.app"><img src="https://img.shields.io/badge/Site%20Izanagi-09090b?style=flat-square&logo=vercel&logoColor=white" alt="Site Izanagi"></a>
   <a href="https://pedrohsl-dev.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-09090b?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"></a>
@@ -23,6 +23,8 @@
 | 🎬 **Interfaces Cinematográficas** | 🤖 **IA Aplicada & Agentes** |
 |:---|:---|
 | Estética moderna: dark mode, glassmorphism, scrollytelling, WebGL e micro-interações que transformam interfaces em experiências. | Frameworks de agentes, engenharia de prompt e Azure AI aplicados ao produto — do assistente de código ao runtime autônomo. |
+
+<img src="https://raw.githubusercontent.com/pedrohenriquesanchesleal4-debug/pedrohenriquesanchesleal4-debug/main/assets/agents.svg" alt="Izanagi Agent Swarm" width="780">
 
 ## <span>//</span> stack
 
@@ -83,6 +85,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
 </p>
+
+<img src="https://raw.githubusercontent.com/pedrohenriquesanchesleal4-debug/pedrohenriquesanchesleal4-debug/main/assets/pipeline.svg" alt="CI Pipeline" width="780">
 
 ## <span>//</span> projetos em destaque
 
@@ -159,6 +163,8 @@
 - 🎓 **Análise de Dados com Power BI · Banco de Dados Relacional** — Fundação Bradesco
 
 ## <span>//</span> métricas
+
+<img src="https://raw.githubusercontent.com/pedrohenriquesanchesleal4-debug/pedrohenriquesanchesleal4-debug/main/assets/languages.svg" alt="Linguagens" width="780">
 
 <p align="center">
   <img src="https://github-readme-stats-six-eta.vercel.app/api?username=pedrohenriquesanchesleal4-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats">
