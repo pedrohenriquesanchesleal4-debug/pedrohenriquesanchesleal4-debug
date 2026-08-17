@@ -28,6 +28,10 @@
 
 ## <span>//</span> stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,php,laravel,cs,dotnet,python,postgres,mysql,redis,pandas,docker,git,githubactions,vercel,linux,bash" alt="Stack Icons">
+</p>
+
 **⬢ Frontend**
 
 <p align="center">
@@ -173,6 +177,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pedrohenriquesanchesleal4-debug&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=pedrohenriquesanchesleal4-debug&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph">
 </p>
 
 ## <span>//</span> contato
