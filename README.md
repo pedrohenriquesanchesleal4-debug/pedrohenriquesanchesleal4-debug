@@ -29,7 +29,7 @@
 ## <span>//</span> stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,php,laravel,cs,dotnet,python,postgres,mysql,redis,pandas,docker,git,githubactions,vercel,linux,bash" alt="Stack Icons">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,php,laravel,cs,dotnet,python,postgres,mysql,redis,pandas,docker,git,githubactions,vercel,linux,bash" alt="Stack Icons" width="640">
 </p>
 
 **⬢ Frontend**
